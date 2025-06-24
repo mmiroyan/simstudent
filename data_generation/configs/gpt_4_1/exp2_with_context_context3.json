@@ -1,0 +1,12 @@
+{
+    "experiment_name": "exp2_with_context",
+    "input_data_path": "",
+    "output_data_path": "",
+    "model_id": "gpt-4.1",
+    "model_type": "azure_openai",
+    "prompt_template": "nft",
+    "max_new_tokens": 1024,
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "system_prompt": "You are a helpful assistant simulating a student in an introduction to Python programming course working on a homework problem."
+}

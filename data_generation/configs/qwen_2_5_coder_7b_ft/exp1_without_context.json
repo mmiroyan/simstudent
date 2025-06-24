@@ -1,0 +1,16 @@
+{
+    "experiment_name": "exp1_without_context",
+    "input_data_path": ".",
+    "output_data_path": "",
+    "model_id": "",
+    "model_type": "local",
+    "prompt_template": "ft",
+    "batch_size": 32,
+    "max_seq_length": 8192,
+    "max_new_tokens": 1024,
+    "do_sample": true,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0
+}
